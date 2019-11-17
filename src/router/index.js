@@ -1,6 +1,9 @@
 import Vue from 'vue';
+import VueAnalytics from 'vue-analytics';
 import VueRouter from 'vue-router';
 import Home from '../views/Home.vue';
+
+import auth from '../../auth.json';
 
 Vue.use(VueRouter);
 
@@ -33,6 +36,11 @@ const router = new VueRouter({
     mode: 'history',
     base: process.env.BASE_URL,
     routes
+});
+
+Vue.use(VueAnalytics, {
+  id: auth.ga,
+  router
 });
 
 export default router;
