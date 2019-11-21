@@ -13,7 +13,7 @@
 			</v-card-actions>
 			<v-divider></v-divider>
 			<v-card-actions>
-				<v-chip class="ma-2" v-for="(tag) in entry.tags" :key="tag" @click="$router.push({name: tag}).catch(err=>{})">{{tag}}</v-chip>
+				<v-chip class="ma-2" v-bind:disabled="isDisabled(tag)" v-for="(tag) in entry.tags" :key="tag" @click="$router.push({name: tag})">{{tag}}</v-chip>
 			</v-card-actions>
 		</div>
 	</v-card>
@@ -22,6 +22,11 @@
 <script>
 	export default {
 		name: 'ArticleCard',
+		methods: {
+			isDisabled(tag) {
+				return this.$route.path.replace('/tags/','') == tag ? true : false;
+			}
+		},
 		props: {
 			entry: {
 				type: Object,
