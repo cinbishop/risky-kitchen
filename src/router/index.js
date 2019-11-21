@@ -35,7 +35,7 @@ const blogRoutes = Object.keys(BlogEntries).map(section => {
 
 const tagRoutes = tagArr.map(tag => {
   return {
-    path: `/${tag}`,
+    path: `/tags/${tag}`,
     name: tag,
     component: Tag
   }

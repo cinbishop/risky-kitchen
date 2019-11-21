@@ -25,13 +25,12 @@ export default {
 			Object.keys(BlogEntries).map(section=>{
 				for (var blog of BlogEntries[section]) {
 					for (var tag of blog.tags) {
-						if(tag == this.$route.path.replace('/','')) {
+						if(tag == this.$route.path.replace('/tags/','')) {
 							filteredPosts.push(blog);
 						}
 					}
 				}
 			});
-			window.console.log(filteredPosts);
 			return filteredPosts;
 		}
 	}
