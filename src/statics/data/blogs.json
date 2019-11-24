@@ -1,37 +1,34 @@
 {
-	"editorials":[
+	"post":[
 		{
 			"id":"drink-tap-water",
 			"date":"November 15, 2019",
-			"image":"https://cdn.vuetifyjs.com/images/cards/house.jpg",
-			"title":"Shut the fuck up and just drink tap water already",
+			"image":"drink-tap-water-hero.jpg",
+			"title":"Shut The Fuck Up And Just Drink Tap Water Already",
 			"description":"Seriously. Enough with your filtered water horeshit.",
 			"tags":["rants","liquids","tag4"]
 		},
 		{
 			"id":"drink-tap-water2",
 			"date":"November 15, 2019",
-			"image":"https://cdn.vuetifyjs.com/images/cards/house.jpg",
-			"title":"Shut the fuck up and just drink tap water already2",
-			"description":"Seriously. Enough with your filtered water horeshit.",
+			"image":"drink-tap-water2-hero.jpg",
+			"title":"What's The Worse That Could Happen?",
+			"description":"Expiration dates are for chuds.",
 			"tags":["tag1","tag2","tag3"]
-		}
-
-	],
-	"recipes": [
+		},
 		{
 			"id":"drink-tap-water3",
 			"date":"November 15, 2019",
-			"image":"https://cdn.vuetifyjs.com/images/cards/house.jpg",
-			"title":"Shut the fuck up and just drink tap water already3",
+			"image":"drink-tap-water-hero.jpg",
+			"title":"Shut The Fuck Up And Just Drink Tap Water Already 3",
 			"description":"Seriously. Enough with your filtered water horeshit.",
 			"tags":["rants","yelling","rants2","tag4"]
 		},
 		{
 			"id":"drink-tap-water4",
 			"date":"November 15, 2019",
-			"image":"https://cdn.vuetifyjs.com/images/cards/house.jpg",
-			"title":"Shut the fuck up and just drink tap water already4",
+			"image":"drink-tap-water2-hero.jpg",
+			"title":"Shut The Fuck Up And Just Drink Tap Water Already 4",
 			"description":"Seriously. Enough with your filtered water horeshit.",
 			"tags":["tag4","rants"]
 		}

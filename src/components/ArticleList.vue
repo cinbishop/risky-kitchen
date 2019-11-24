@@ -1,11 +1,9 @@
 <template>
-	<v-container fluid>
-			<v-row dense>
-				<v-col v-for="(entry) in entries" :key="entry.id" :cols="6">
-					<article-card :entry="entry"></article-card>
-				</v-col>
-			</v-row>
-	</v-container>
+	<v-row dense>
+		<v-col v-for="(entry) in entries" :key="entry.id" :cols="12" :md="6">
+			<article-card :entry="entry"></article-card>
+		</v-col>
+	</v-row>
 </template>
 
 <script>
@@ -21,13 +19,20 @@ export default {
 	},
 	computed: {
 		entries() {
-			var filteredPosts = [];
+			let filteredPosts = [];
 			Object.keys(BlogEntries).map(section=>{
-				for (var blog of BlogEntries[section]) {
-					for (var tag of blog.tags) {
-						if(tag == this.$route.path.replace('/tags/','')) {
-							filteredPosts.push(blog);
-						}
+				for (let blog of BlogEntries[section]) {
+					if(this.$route.path == '/') {
+						filteredPosts.push(blog)
+					}
+					else if(section == this.$route.path.replace(/\//g, '')) {
+						filteredPosts.push(blog);
+					} else {
+						for (let tag of blog.tags) {
+							if(tag == this.$route.path.replace('/tags/','')) {
+								filteredPosts.push(blog);
+							}
+						}							
 					}
 				}
 			});

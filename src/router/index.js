@@ -2,7 +2,6 @@ import Vue from 'vue';
 import VueAnalytics from 'vue-analytics';
 import VueRouter from 'vue-router';
 import Home from '../views/Home.vue';
-import Tag from '../views/Tag.vue';
 
 import auth from '../../auth.json';
 
@@ -37,7 +36,7 @@ const tagRoutes = tagArr.map(tag => {
   return {
     path: `/tags/${tag}`,
     name: tag,
-    component: Tag
+    component: Home
   }
 });
 
@@ -50,6 +49,8 @@ const routes = [
     ...tagRoutes,
     ...blogRoutes
 ];
+
+window.console.log(routes);
 
 const router = new VueRouter({
     mode: 'history',

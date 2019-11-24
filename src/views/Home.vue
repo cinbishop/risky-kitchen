@@ -1,10 +1,12 @@
 <template>
 	<span>
-		<home-hero></home-hero>
-		<v-container fluid>
-			<v-row dense>
-				<v-col :cols="12" :md="9">
-					<home-article-list></home-article-list>
+		<v-container grid-list-xl>
+			<v-row>
+				<v-col :cols="12" :md="8">
+					<article-list></article-list>
+				</v-col>
+				<v-col :cols="12" :md="4">
+					<app-sidebar></app-sidebar>
 				</v-col>
 			</v-row>
 		</v-container>
@@ -12,14 +14,14 @@
 </template>
 
 <script>
-import HomeHero from '@/components/HomeHero';
-import HomeArticleList from '@/components/HomeArticleList';
+import ArticleList from '@/components/ArticleList';
+import AppSidebar from '@/components/AppSidebar';
 
 export default {
     name: 'home',
     components: {
-    	HomeHero,
-    	HomeArticleList
+    	ArticleList,
+    	AppSidebar
     }
 };
 </script>
