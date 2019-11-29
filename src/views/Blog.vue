@@ -39,4 +39,9 @@ export default {
 .blog p:first-of-type {
 	margin-top: 15px;
 }
+
+.blog a {
+	color: #000 !important;
+	font-weight: 700 !important;
+}
 </style>

@@ -2,9 +2,9 @@
 	<span>
 		<v-row dense>
 			<v-col :col="12">
-				<div class="ad-space">
+				<div class="funny-box">
 					<v-img :src="('/assets/logo.svg')">
-						<div class="ad-space--text text-center">
+						<div class="funny-box--text text-center">
 							<span class="headline font-weight-black mb-2">Your Ad Here</span>
 							<span class="subtitle-1 font-weight-normal">{{getShillMessage}}</span>
 						</div>
@@ -67,14 +67,14 @@ export default {
 </script>
 
 <style>
-.ad-space {
+.funny-box {
 	background-color: #ccc;
 }
-.ad-space .v-image__image {
+.funny-box .v-image__image {
 	background-size: auto;
 	opacity: 0.2;
 }
-.ad-space .ad-space--text {
+.funny-box .funny-box--text {
 	background-color: rgba(255,255,255,0.6);
 	position: relative;
 	top: 50%;
@@ -83,7 +83,7 @@ export default {
 	transform: translateY(-50%);
 	padding: 25px;
 }
-.ad-space .ad-space--text span {
+.funny-box .funny-box--text span {
 	display: block;
 	line-height: 1.2;
 }

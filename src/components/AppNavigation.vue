@@ -32,7 +32,7 @@ export default {
 .toolbar-title {
 	color: inherit;
 	text-decoration: inherit;
-	font-weight: bold;
+	font-weight: 300;
 }
 .v-toolbar.v-toolbar--collapsed {
 	-webkit-box-shadow: 0 2px 4px -1px rgba(0,0,0,.2);

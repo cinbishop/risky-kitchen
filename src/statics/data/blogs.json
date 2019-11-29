@@ -1,36 +1,20 @@
 {
 	"post":[
 		{
+			"id":"terrible-alcohols",
+			"date":"November 29, 2019",
+			"image":"five-terrible-alcohols-hero.jpg",
+			"title": "'Terrible' Alcohols and What To Pair Them With",
+			"description":"Sometimes, getting drunk is a passion project.",
+			"tags":["lists","booze"]
+		},
+		{
 			"id":"drink-tap-water",
 			"date":"November 15, 2019",
 			"image":"drink-tap-water-hero.jpg",
-			"title":"Shut The Fuck Up And Just Drink Tap Water Already",
-			"description":"Seriously. Enough with your filtered water horeshit.",
-			"tags":["rants","liquids","tag4"]
-		},
-		{
-			"id":"drink-tap-water2",
-			"date":"November 15, 2019",
-			"image":"drink-tap-water2-hero.jpg",
-			"title":"What's The Worse That Could Happen?",
-			"description":"Expiration dates are for chuds.",
-			"tags":["tag1","tag2","tag3"]
-		},
-		{
-			"id":"drink-tap-water3",
-			"date":"November 15, 2019",
-			"image":"drink-tap-water-hero.jpg",
-			"title":"Shut The Fuck Up And Just Drink Tap Water Already 3",
-			"description":"Seriously. Enough with your filtered water horeshit.",
-			"tags":["rants","yelling","rants2","tag4"]
-		},
-		{
-			"id":"drink-tap-water4",
-			"date":"November 15, 2019",
-			"image":"drink-tap-water2-hero.jpg",
-			"title":"Shut The Fuck Up And Just Drink Tap Water Already 4",
-			"description":"Seriously. Enough with your filtered water horeshit.",
-			"tags":["tag4","rants"]
+			"title":"Shut the Fuck Up And Just Drink Tap Water Already",
+			"description":"Seriously, what the hell are you waiting for.",
+			"tags":["rants","editorials","water"]
 		}
 	]
 }
