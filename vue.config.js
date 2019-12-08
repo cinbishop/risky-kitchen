@@ -11,5 +11,6 @@ module.exports = {
             .options({
                 raw: true
             });
-    }
+    },
+    transpileDependencies: ['vuetify', 'vue-loader']
 };

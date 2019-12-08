@@ -50,4 +50,8 @@ export default {
     color: #000 !important;
     font-weight: 700 !important;
 }
+
+.blog ul {
+    margin-bottom: 15px;
+}
 </style>
