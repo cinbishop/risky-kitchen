@@ -1,7 +1,7 @@
 <img class="hero-image" src="/assets/posts/drink-tap-water-hero.jpg" />
 
 # Shut the Fuck Up And Just Drink Tap Water Already
-###### 11/15/19 - Bishop Fox 
+###### 11/15/19 - Bishop, Risky.Kitchen Editor
 
 Allow me to start this off by making my position clear: tap water is a delicious honeywine from the gods of local government and anyone who says otherwise can go drown themselves in the ocean. I don't think that is an unreasonable stance, but apparently I'm in the <a href="https://www.bottledwater.org/consumers-prefer-bottled-water-recognize-it-healthy-choice-and-think-it-should-be-available-wherever" title="These guys can't be biased, right?" target="_blank">minority</a> here. Well, wait. Please don't _actually_ try and drown yourself in the ocean. It can't be done. That cesspool we call the sea is like 95% turtle-seeking plastic straws now. You'll just get impaled and wind up on Youtube being saved by some preachy ocean doctor. No insurance company in the world is going to cover that and boats aren't cheap. Sea quack needs to get paid and sea quack is gonna get paid. By you. Exclusively you.
 

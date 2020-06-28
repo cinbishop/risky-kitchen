@@ -2,12 +2,14 @@
     <v-card flat color="grey lighten-3">
         <div class="entry">
             <v-img
+                style="cursor:pointer;"
                 class="white--text align-end"
                 height="400px"
                 :src="'/assets/posts/' + entry.image"
+                @click="$router.push({ name:entry.id })"
             >
                 <v-card-title
-                    style="word-break:break-word; background-color:rgba(0,0,0,0.7)"
+                    style="word-break:break-word; background-color:rgba(0,0,0,0.7); cursor:pointer;"
                     class="headline font-weight-bold"
                     @click="$router.push({ name: entry.id })"
                 >
@@ -37,7 +39,7 @@
                     v-for="tag in entry.tags"
                     :key="tag"
                     @click="$router.push({ name: tag })"
-                    >{{ tag }}</v-chip
+                    >{{ tag.replace(/-/g,' ') }}</v-chip
                 >
             </v-card-actions>
         </div>

@@ -1,0 +1,22 @@
+<img class="hero-image" src="/assets/posts/wedge-salad-hero.jpg" />
+
+# Wedge Salads Are The Worst
+###### 2/16/20 - Bishop, Risky.Kitchen Editor
+
+Salads. They're the food you eat when you are too disgusted with yourself to eat the food you really want to eat. However, if you're going to take a trip down the roughage road, you may as well enjoy it. There are a bevy of options available to you, most of them named <a href="https://www.california.com/invented-in-california-cobb-salad/" title="Not only did he invent a salad, but the guy opened a restaurant shaped like a goddamn hat. Truly, the man was ahead of his time." target="_blank">after</a> <a href="https://en.wikipedia.org/wiki/Caesar_Cardini" title="Sometimes, the American dream is becoming a salad mogul in Tijuana." target="_blank">restaurateurs</a>. Yet, routinely, plenty of people choose to eat wedge salads for reasons I cannot begin to fathom... 
+
+...actually it's probably because they serve as a pretty solid vehicle for bacon, but that kind of kills my whole point here so let's just ignore that fact for now.
+
+I'd like to state this up front: wedge salads are not salads. They are construction projects. Oh wow, a entire quarter head of lettuce and a smattering of tomatoes that I have to mix up myself. Great. I didn't realize that I was also an employee at this Outback Steakhouse. I hope I leave myself a good tip. I probably won't though, because this salad I made is a bullshit pile of sadness made manifest. 
+
+What's worse, the cornerstone of the entire salad is iceberg lettuce, the laughing stock of the lettuce world. 
+
+Iceberg lettuce is 96% water and 100% garbage. It contains more E. coli than <a href="https://www.fda.gov/food/food-labeling-nutrition/nutrition-information-raw-vegetables" title="I'm sorry you have to scroll. Leave it to the government to not bother to include anchor tags." target="_blank">actual nutritional value</a>. Hell, the <a href="http://www.cidrap.umn.edu/news-perspective/2008/08/fda-approves-irradiation-iceberg-lettuce-spinach" title="Sorry to throw you under the bus like this, spinach. It's nothing personal. Collateral damage." target="_blank">FDA</a> threw in the towel 12 years ago and just said, "Fuck it, go ahead and irradiate the stuff. Who knows? Maybe we'll get lucky and it'll turn somebody into a Hulk or some shit. That'd be pretty dope, right? Lettuce Hulk? It'd be like the Jolly Green Giant, but for real. Come on, who's in?". 
+
+I know what iceberg apologists will say: <a href="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mocking-spongebob-1556133078.jpg" title="This is not a solid joke, but iceberg lettuce is not a solid lettuce so I'm ok with phoning this one in." target="_blank">aT lEaSt It HaS A gOoD CruNch.</a> Dog food is crunchy too, but I don't see you saddling up next to the family dog at dinner time. Hopefully. I mean, do you I guess.
+
+Also, did you know it used to be called 'crisphead' lettuce? So it has a racist past, too.
+
+A watery, once-bacteria-filled-and-now-radioactive base is just the start. Traditionally, blue cheese dressing is the default option for a wedge salad, which makes a sick kind of sense when you think about it. After all, what goes better with bacteria lettuce than <a href="https://en.wikipedia.org/wiki/Blue_cheese#History" title="To be fair, 'accidentally made in a cave because some kid wanted to try and get laid' is a better origin story than I was expecting. Also, an exceedingly French thing to do." target="_blank">moldy</a> cheese? Blue cheese dressing is the inbred cousin of ranch dressing that should really only get a pass when it is being consumed with chicken wings and that is largely because the fried chicken is doing all of the heavy lifting.
+
+As posited above, the only real redeeming quality of a wedge salad has to be the bacon that routinely gets roped into these lazy excuses for meals. Which, if anything, just proves how much of a team player bacon is as a food. I can't really dispute this fact, but I would argue there are about a <a href="https://www.foodnetwork.com/recipes/articles/50-things-to-make-with-bacon" title="Ok, or at least 50. Wait, should I be linking to my competition like this? Wait, am I trying to compete with Food Network? What is the goal here? What the hell am I doing with my life? Shit, too real." target="_blank">million</a> better ways to get your bacon fix, so pick another one.

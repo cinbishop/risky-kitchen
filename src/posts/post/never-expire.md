@@ -1,7 +1,7 @@
 <img class="hero-image" src="/assets/posts/never-expire-hero.jpg" />
 
 # Expiration Dates Are Basically Bullshit
-###### 12/2/19 - Bishop Fox 
+###### 12/2/19 - Bishop, Risky.Kitchen Editor
 
 Go ahead and check "world hunger" off the big scary "List of Reasons Why Humanity Is Probably Gonna Fuck This All Up And <a href="https://en.wikipedia.org/wiki/Human_extinction#Possible_scenarios" target="_blank" title="Wait, fuck. It's not even on there?">Murder Itself</a>". As it turns out, those ingenious bastards at Fast Food R&D figured it all out, like <a href="https://news.mcdonalds.com/media-statements/food-details/response-myth-mcdonalds-burgers-do-not-decompose" target="_blank" title="Ok it's only from 2013 - but that is like 50 in Internet Years. And Ok, they're refuting it. BUT CAN YOU BLAME THEM AFTER ALL THE BACKLASH?">decades ago</a>. Yet, instead of lavishing praise upon these titans of scientific invention, society is always all: 
 
@@ -9,7 +9,7 @@ Go ahead and check "world hunger" off the big scary "List of Reasons Why Humanit
 
 "Shouldn't this hamburger at least show signs of distress after being left in my attic for the entirety of my college career? I switched majors three times. Wait, why was I eating burgers in the attic anyway? Oh boy, I smoked a lot of weed in high school."  
 
-"That shit isn't food. It is impervious to the great equalizer itself: Time. I should praise this chicken finger as a god instead of shoving it into my ceaseless, ever-hungering maw. I am ready to accept the ageless mystery of the delicious Quadrinity. Sauced, Unsauced, Crispy, and Grilled. Any Two It Can Be, But Never Three. Forever tender be thy name."
+"That shit isn't food. It is impervious to the great equalizer itself: Time. I should praise this chicken finger as a god instead of shoving it into my ceaseless, ever-hungering maw. I am ready to accept the ageless mystery of the delicious Quadrinity. Sauced, Unsauced, Crispy, and Grilled. Forever tender be thy name."
 
 Actually, I would probably be ok with that last one.
 

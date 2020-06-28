@@ -76,11 +76,11 @@ const routes = [
             metaTags: [
                 {
                     name: 'description',
-                    content: 'Your goto source for food-related things you definitely don\'t need to know. Or care about at all really. Seriously, do something better with your time.'
+                    content: 'Your source for food-related things you definitely don\'t need to know. Or care about at all really. Seriously, do something better with your time.'
                 },
                 {
                     property: 'og:description',
-                    content: 'Your goto source for food-related things you definitely don\'t need to know. Or care about at all really. Seriously, do something better with your time.'
+                    content: 'Your source for food-related things you definitely don\'t need to know. Or care about at all really. Seriously, do something better with your time.'
                 }
             ]
         }

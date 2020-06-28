@@ -1,7 +1,7 @@
 <img class="hero-image" src="/assets/posts/five-terrible-alcohols-hero.jpg" />
 
 # 'Terrible' Alcohols and What To Pair Them With
-###### 11/29/19 - Beyd Sechepol 
+###### 11/29/19 - Beyd Sechepol, Risky.Kitchen Brewmaster
 
 Howdy, folks! Beyd Sechepol here of Beyd's Waterdeep Wetworks and traveling booze cart. Your one stop shop for gettin' sloppy drunk in the City of Splendors. Or, on the road to it! Now that I've got my plug out of the way, let me tell you about a few choice spirits ol' Beyd can't seem to get rid of. 
 

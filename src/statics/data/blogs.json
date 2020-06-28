@@ -1,6 +1,86 @@
 {
 	"post":[
 		{
+			"id":"dispensers-for-all",
+			"date":"June 28, 2020",
+			"image":"dispensers-for-all-hero.jpg",
+			"title":"Mac On Tap Is Just The Beginning",
+			"description":"We stand at the precipice of a bold new future.",
+			"tags":["editorials"]
+		},
+		{
+			"id":"pb-recipes",
+			"date":"April 5, 2020",
+			"image":"pb-recipes-hero.jpg",
+			"title":"5 Uses For Peanut Butter From Our Friends At Smucker's",
+			"description":"Smucker's in no way endorses this article.",
+			"tags":["lists","risky-reviews"]
+		},
+		{
+			"id":"board-game-ideas",
+			"date":"March 29, 2020",
+			"image":"board-game-ideas-hero.jpg",
+			"title":"Failed Fast Food Board Game Contests",
+			"description":"Hey they can't all be winners, folks.",
+			"tags":["lists"]
+		},
+		{
+			"id":"wedge-salad",
+			"date":"February 16, 2020",
+			"image":"wedge-salad-hero.jpg",
+			"title":"Wedge Salads Are The Worst",
+			"description":"Every steakhouse in the world is wrong.",
+			"tags":["editorials"]
+		},
+		{
+			"id":"secret-menu",
+			"date":"January 27, 2020",
+			"image":"secret-menu-hero.jpg",
+			"title":"The R.K Guide To Secret Menus",
+			"description":"Any asshole can order a combo meal.",
+			"tags":["editorials","lists"]
+		},
+		{
+			"id":"rr-egg-minder",
+			"date":"January 19, 2020",
+			"image":"rr-egg-minder-hero.jpg",
+			"title":"Risky Reviews: Wink Egg Minder",
+			"description":"Eggs need mindin', but who has the time?",
+			"tags":["risky-reviews","technology"]
+		},
+		{
+			"id":"dips-unsung-heroes",
+			"date":"December 31, 2019",
+			"image":"dips-unsung-heroes-hero.jpg",
+			"title":"Dips: The Unsung Heroes Of The Food World",
+			"description":"They are a food that can be almost any other food.",
+			"tags":["editorials"]
+		},
+		{
+			"id":"or-bards",
+			"date":"December 23, 2019",
+			"image":"or-bards-hero.jpg",
+			"title":"Odey On The Roady: Bard's Burgers & Chili",
+			"description":"Odey Boom Boom reports from the road.",
+			"tags":["odey-on-the-roady","travel"]
+		},
+		{
+			"id":"bite-sized",
+			"date":"December 16, 2019",
+			"image":"bite-sized-hero.jpg",
+			"title":"Stop Giving Me Shit For Eating Bite-Sized Foods The Way Nature Intended",
+			"description":"'Bite-sized' is a state of mind, really.",
+			"tags":["editorials"]
+		},
+		{
+			"id":"cfr-tb-fingers",
+			"date":"December 8, 2019",
+			"image":"cfr-tb-fingers-hero.jpg",
+			"title":"Classy Food Reviews: Crispy Tortilla Chicken Tenders",
+			"description":"Hard to fuck up a chicken finger, right?",
+			"tags":["classy-food-reviews"]
+		},
+		{
 			"id":"never-expire",
 			"date":"December 2, 2019",
 			"image":"never-expire-hero.jpg",
@@ -22,7 +102,7 @@
 			"image":"drink-tap-water-hero.jpg",
 			"title":"Shut the Fuck Up And Just Drink Tap Water Already",
 			"description":"Seriously, what the hell are you waiting for.",
-			"tags":["rants","editorials","water"]
+			"tags":["editorials","water","life-advice"]
 		}
 	]
 }

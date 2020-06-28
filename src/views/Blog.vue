@@ -30,6 +30,11 @@ export default {
     name: 'blog',
     components: {
         AppSidebar
+    },
+    methods: {
+        testFn: function() {
+            window.console.log('test');
+        }
     }
 };
 </script>

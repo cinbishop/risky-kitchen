@@ -13,7 +13,7 @@
                     v-bind:disabled="isDisabled(tag)"
                     label
                 >
-                    {{ tag }}
+                    {{ tag.replace(/-/g,' ') }}
                 </v-chip>
             </v-chip-group>
         </v-col>
