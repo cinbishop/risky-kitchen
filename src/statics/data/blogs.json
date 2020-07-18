@@ -1,6 +1,14 @@
 {
 	"post":[
 		{
+			"id":"cfr-bad-chips",
+			"date":"July 12, 2020",
+			"image":"cfr-bad-chips-hero.jpg",
+			"title":"Classy Food Reviews: Wendy's Baconator Pringles",
+			"description":"Oh boy they aren't great, sorry.",
+			"tags":["classy-food-reviews"]
+		},
+		{
 			"id":"dispensers-for-all",
 			"date":"June 28, 2020",
 			"image":"dispensers-for-all-hero.jpg",
