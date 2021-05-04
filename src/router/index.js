@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import VueAnalytics from 'vue-analytics';
+import VueGtag from 'vue-gtag';
 import VueRouter from 'vue-router';
 import Home from '../views/Home.vue';
 
@@ -124,9 +124,10 @@ router.beforeEach((to, from, next) => {
   next();
 });
 
-Vue.use(VueAnalytics, {
-    id: auth.ga,
-    router
+Vue.use(VueGtag, {
+    config: {
+        id: auth.ga
+    }
 });
 
 export default router;
